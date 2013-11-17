@@ -1,3 +1,9 @@
+nv (2.1.1-1ppa1~saucy) sausy; urgency=low
+
+  * port
+
+ -- nagadomi <nagadomi@nurs.or.jp>  Sun, 17 Nov 2013 11:26:48 +0900
+
 nv (2.1.1-1) unstable; urgency=low
 
   * update upstream source
