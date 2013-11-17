@@ -1,0 +1,11 @@
+nv (2.1.1-1) unstable; urgency=low
+
+  * update upstream source
+
+ -- nagadomi <nagadomi@nurs.or.jp>  Sun, 17 Nov 2013 11:11:21 +0900
+
+nv (2.1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- nagadomi <nagadomi@nurs.or.jp>  Tue, 25 Jun 2013 02:37:59 +0900
