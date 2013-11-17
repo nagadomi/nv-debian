@@ -1,3 +1,9 @@
+nv (2.1.1-1ppa1~precise) precise; urgency=low
+
+  * port
+
+ -- nagadomi <nagadomi@mpn1>  Sun, 17 Nov 2013 11:14:45 +0900
+
 nv (2.1.1-1) unstable; urgency=low
 
   * update upstream source
